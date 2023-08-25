@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# VErsion del curso
+
+version actual: v1.2.2
+
+
+>>>>>>> v1.2.2
 # Cabeceras
 # Cabecera H1
 ## Cabecera h2  
